@@ -3,3 +3,4 @@ committed committed
 staged staged staged 
 committed committed committed
 staged staged staged staged
+committed committed committed committed
